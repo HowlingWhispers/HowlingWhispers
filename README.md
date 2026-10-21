@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HowlingWhispers/HW-Landing">Website</a> ·
+  <a href="https://thehowlingwhispers.com">Website</a> ·
   <a href="https://github.com/HowlingWhispers">GitHub</a>
 </p>
 
@@ -26,7 +26,7 @@ I build an ecosystem where characters, canon, simulation, and play come together
       <h3>🌐 Howling Whispers</h3>
       <p><strong>Main Landing Website</strong></p>
       <p>Central website and gateway to the Howling Whispers ecosystem — introduces the major projects, ecosystem, and community.</p>
-      <p><a href="https://github.com/HowlingWhispers/HW-Landing">HW-Landing →</a></p>
+      <p><a href="https://thehowlingwhispers.com">Website →</a></p>
     </td>
     <td width="33%" valign="top">
       <h3>🔥 Ember</h3>
@@ -53,13 +53,13 @@ I build an ecosystem where characters, canon, simulation, and play come together
 
 | Project | Description |
 |---|---|
-| [Orbis](https://github.com/HowlingWhispers/HW-Orbis) | Canonical library & worldbuilding platform — worlds, characters, places, items, factions, species, societies, families, memories. |
-| [Speculus](https://github.com/HowlingWhispers/HW-Speculus) | AI roleplay & simulation environment testing characters, scenes, world behaviour. |
-| [Fabula](https://github.com/HowlingWhispers/HW-Fabula) | Persistent world runtime — travel, time, inventory, economy, encounters, dice, player state. |
-| [Praxis](https://github.com/HowlingWhispers/HW-Praxis) | Experimental narrative/state bridge between freeform AI interaction and authoritative runtime state. |
-| [Bot Central](https://github.com/HowlingWhispers/HW-Bot-Central) | Discord bot dev platform with visual GUI, scripting, SQL, API integrations. |
-| [Atlas](https://github.com/HowlingWhispers/HW-Atlas) | Ecosystem project. |
-| [Studium](https://github.com/HowlingWhispers/HW-Studium) | Research & analysis system studying simulation/runtime history. |
+| Orbis | Canonical library & worldbuilding platform — worlds, characters, places, items, factions, species, societies, families, memories. |
+| Speculus | AI roleplay & simulation environment testing characters, scenes, world behaviour. |
+| Fabula | Persistent world runtime — travel, time, inventory, economy, encounters, dice, player state. |
+| Praxis | Experimental narrative/state bridge between freeform AI interaction and authoritative runtime state. |
+| Bot Central | Discord bot dev platform with visual GUI, scripting, SQL, API integrations. |
+| Atlas | Ecosystem project. |
+| Studium | Research & analysis system studying simulation/runtime history. |
 
 <details>
 <summary>More</summary>
